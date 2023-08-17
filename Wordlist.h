@@ -226,7 +226,6 @@ public:
         }
     }
 
-    // Borrowed from List.cpp
     string pop_front()
     {
         // Causes a crash if !empty() is false
