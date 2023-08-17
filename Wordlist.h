@@ -2,33 +2,6 @@
 
 #pragma once
 
-/////////////////////////////////////////////////////////////////////////
-//
-// Student Info
-// ------------
-//
-// Name : Jason Ding
-// St.# : 301403052
-// Email: jda101@sfu.ca
-//
-//
-// Statement of Originality
-// ------------------------
-//
-// All the code and comments below are my own original work. For any non-
-// original work, I have provided citations in the comments with enough
-// detail so that someone can see the exact source and extent of the
-// borrowed work.
-//
-// In addition, I have not shared this work with anyone else, and I have
-// not seen solutions from other students, tutors, websites, books,
-// etc.
-//
-/////////////////////////////////////////////////////////////////////////
-
-//
-// Do not use any other #includes
-//
 #include "Wordlist_base.h"
 #include <cassert>
 #include <fstream>
