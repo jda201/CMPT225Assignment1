@@ -12,12 +12,6 @@ using namespace std;
 
 class Wordlist : public Wordlist_base
 {
-    //
-    // Use this Node to implement the singly-linked list for the word list. You
-    // can *add* extra variables/methods/features to this struct if you like,
-    // but you must keep its name the same, and also keep the word, count, and
-    // next variables as defined.
-    //
     struct Node
     {
         string word;
